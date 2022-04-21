@@ -170,7 +170,7 @@ Use this section to disclose any miscellaneous information about the project.
 ```
 Example
 ```
-### Pseudocode
+### Acceptance Criteria
 ```
 Example
 ```
