@@ -75,17 +75,22 @@ Project Description: `A README.md template for your projects!`
 
 <!-- Table of Contents -->
 ## Table of Contents
+If your README is long, you may choose to use this table of contents to make it easy for users to find what they need.
 
 * [The Project](#the-project)
     * [Technology Stack](#technology-stack)
-* [How to Use](#how-to-use)
+* [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+* [How to Use](#how-to-use)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#handshake-contact)
+* [Contact](#contact)
+* [Features](#features)
+* [Tests](#tests)
 * [Miscellaneous](#miscellaneous)
     * [User Story](#user-story)
-    * [Pseudocode](#pseudocode)
+    * [Acceptance Criteria](#acceptance-criteria)
 <br>
 
 
@@ -94,46 +99,66 @@ Project Description: `A README.md template for your projects!`
 
 [![Application Image][application-image]][application-url]
 
-Use this section to describe the project.
+Use this section to provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer should **never** be "because it was a homework assignment!")
+- What problem does it solve?
+- What did you learn?
 
 <p align="right"> - <a href="#home">Return to Home</a></p>
 
 ### Technology Stack
-
 Use this section to list the technologies used in the project - examples:
 
 * [HTML](https://html.spec.whatwg.org/)
 * [CSS](https://www.w3.org/TR/CSS/#css)
 * [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-* [Next.js](https://nextjs.org/)
+* [SASS](https://sass-lang.com/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Node.js](https://nodejs.org/en/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
+
+<p align="right"> - <a href="#home">Return to Home</a></p>
+
+
+<!-- Getting Started -->
+## Getting Started
+Use this section to explain how to get the application started - this includes the prerequisites and the installation sections. Feel free to add more sections as needed such as testing, deployment, etc.
+
+<p align="right"> - <a href="#home">Return to Home</a></p>
+
+### Prerequisites
+Use this section to list the prerequisites to run the application.
+
+<p align="right"> - <a href="#home">Return to Home</a></p>
+
+### Installation
+Use this section to describe what are the steps required to install your project. Provide a step-by-step description of how to get the development environment running.
 
 <p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- How to Use -->
 ## How to Use
+Use this section to provide instructions and examples for use. Include screenshots as needed.
 
-Use this section to demostrate how the project can be used.
+To add a screenshot, create an `img` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+```md
+![alt text](assets/images/screenshot.png)
+```
 
 _For more examples, please refer to the [Documentation][documentation-url]._
-
-<p align="right"> - <a href="#home">Return to Home</a></p>
-
-### Prerequisites
-
-Use this section to list prerequisites to run the project.
 
 <p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- Contribuiting -->
 ## Contributing
+If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+**Example of this README.md Contributing message:**
 
 Contributions are much welcomed! If you have suggestions to make this application better, please fork the repo and create a pull request. 
 
@@ -144,6 +169,9 @@ You can also open an issue [here][github-issues-url] and tag it with the **"enha
 
 <!-- License -->
 ## License
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
+**Example of this README.md License message:**
 
 This project is licensed under the terms of the MIT license. 
 
@@ -154,7 +182,6 @@ See `LICENSE` for more information.
 
 <!-- Contact -->
 ## Contact
-
 Richard Guarnieri: richard.gm@outlook.com · LinkedIn: [rguarnieri][linkedin-url] · Twitter: [@ric_guarnieri][twitter-url]
 
 Application URL: [https://example.com/][application-url]
@@ -162,14 +189,41 @@ Application URL: [https://example.com/][application-url]
 <p align="right"> - <a href="#home">Return to Home</a></p>
 
 
+<!-- Credits and Acknowledgments -->
+## Credits and Acknowledgments
+Use this section to list your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
+
+<p align="right"> - <a href="#home">Return to Home</a></p>
+
+
+<!-- Features -->
+## Features
+**Optional:** If your project has a lot of features, list them here.
+
+<p align="right"> - <a href="#home">Return to Home</a></p>
+
+
+<!-- Tests -->
+## Tests
+**Optional:** Feel free to go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+<p align="right"> - <a href="#home">Return to Home</a></p>
+
+
 <!-- Miscellaneous -->
 ## Miscellaneous
-
-Use this section to disclose any miscellaneous information about the project.
+**Optional:** Use this section to disclose any miscellaneous information about the project.
 ### User Story
 ```
 Example
 ```
+
+<p align="right"> - <a href="#home">Return to Home</a></p>
+
 ### Acceptance Criteria
 ```
 Example
