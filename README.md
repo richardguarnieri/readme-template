@@ -86,6 +86,7 @@ If your README is long, you may choose to use this table of contents to make it 
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
+* [Credits and Acknowledgments](#credits-and-acknowledgments)
 * [Features](#features)
 * [Tests](#tests)
 * [Miscellaneous](#miscellaneous)
